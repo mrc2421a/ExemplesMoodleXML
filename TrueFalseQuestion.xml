@@ -7,7 +7,7 @@
 		<text>Quelle est la bonne réponse ?</text>
 	</questiontext>
  <answer fraction="100">
-    <text>tru</text>
+    <text>trues</text>
     <feedback><text>Correct!</text></feedback>
  </answer>
  <answer fraction="0">
