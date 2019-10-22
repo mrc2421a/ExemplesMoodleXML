@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<question type="numerical">
+	<name>
+		<text>Demo question num</text>
+	</name>
+	<questiontext format="html">
+		<text>Quelle est la bonne réponse ?</text>
+	</questiontext>
+ <answer fraction="100">
+     <text>23</text>
+     <feedback><text>Feedback</text></feedback>
+ </answer>
+ <shuffleanswers>13</shuffleanswers>
+</question>
